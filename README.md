@@ -1,2 +1,3 @@
 # CoreJava-RocketTravels-Project-
-Basically here we using core java lang for this project. Here, we can check avilable regervation and booked ticket using RocketTravels site.
+The train ticket booking system is a Java project which maintains the ticket booking and other heavy works of a train station.
+
