@@ -1,3 +1,3 @@
 # CoreJava-RocketTravels-Project-
-The train ticket booking system is a Java project which maintains the ticket booking and other heavy works of a train station.
+Ticket booking and other heavy tasks at a train station are maintained by a Java project called the train ticket booking system. 
 
