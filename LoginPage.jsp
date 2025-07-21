@@ -14,7 +14,7 @@
     <body>
         <jsp:include page="Templet.jsp"></jsp:include>
     <td valign="top">
-    <from action='ValidationServlet' method='Post'>
+    <form action='ValidationServlet' method='Post'>
         <table cellspacing='10' align='center'>
             <tr>
                 <td><font color='darkblue' size='+2'>Login From</td>
@@ -28,6 +28,6 @@
             <tr><td bordercolor='white'><input type='submit' value='Submit'>
             <tr><td bordercolor='white'><input type='RESET' text='Reset'>        
         </table>
-    </from>    
+    </form>    
     </body>
 </html>
